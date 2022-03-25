@@ -14,13 +14,23 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="center"> Hi 👋 , I'm Arijit Nandi <br/></h2> 
-  <a href="https://github.com/narender-rk10" target="_blank">
+
+- 🔭 I'm working as a researcher at Training Unit of Eurecat - Centro Tecnológico de Cataluña and a full-time Ph.D. student at UPC Universitat Politècnica de Catalunya.
+- 🌱 I’m currently working on Real-tim emotion classificiation from physiological data (EEG, ECG, GSR etc.) streams in E-Learning. Also developing Federated Learning based application for the same.  
+- 📫 How to reach me: `Email`: jit.ari172@gmail.com, `Linkedin`: https://www.linkedin.com/in/arin2/.
+- 😄 Pronouns: `Aa`-`rii`-`jeet`
+- ⚡ Fun fact: 1.0 
+<h2 align="center"><br/></h2> 
+ 
+  <a href="https://github.com/officialarijit" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/officialarijit?label=Github%20followers&style=for-the-badge">
-  </a> <br> <br>
+  </a> <br>
   <a href="https://github.com/officialarijit" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=officialarijit&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
   </a>
   </h3>   
+  
+  
                              
                            
  <h1>Tech Stack</h1>
