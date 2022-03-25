@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <h1>GitHub Stats! 📊</h1>
 <Br>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=officialarijit10&show_icons=true&locale=en)
+![Github stats](https://github-readme-stats.vercel.app/api?username=officialarijit&show_icons=true&locale=en)
 
 ![language stats](https://github-readme-stats.vercel.app/api/top-langs?username=officialarijit&show_icons=true&locale=en&layout=compact)
 
