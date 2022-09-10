@@ -57,7 +57,8 @@ Here are some ideas to get you started:
 
 ![language stats](https://github-readme-stats.vercel.app/api/top-langs?username=officialarijit&show_icons=true&locale=en&layout=compact)
 
-![github streak](https://github-readme-streak-stats.herokuapp.com/?user=officialarijit&)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=officialarijit&theme=github-light&hide_border=true)](https://git.io/streak-stats)
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=officialarijit&hide_border=true&area=true)
 
