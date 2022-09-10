@@ -53,13 +53,13 @@ Here are some ideas to get you started:
 <h1>GitHub Stats! 📊</h1>
 <Br>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=officialarijit&show_icons=true&locale=en)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=officialarijit&show_icons=true&locale=en)
 
-![language stats](https://github-readme-stats.vercel.app/api/top-langs?username=officialarijit&show_icons=true&locale=en&layout=compact)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs?username=officialarijit&show_icons=true&locale=en&layout=compact)
  
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=officialarijit&theme=github-light)
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=officialarijit&hide_border=true&area=true)
+![Arijit's Activity Graph](https://activity-graph.herokuapp.com/graph?username=officialarijit&bg_color=ffffff&color=4f4dff&line=629e4c&point=403d3d&area=true&hide_border=true)
 
 
 
