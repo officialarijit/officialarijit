@@ -21,20 +21,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: `Aa`-`rii`-`jeet`
 - ⚡ Fun fact: 1.0 
 <h2 align="center"><br/></h2> 
- 
-  <a href="https://github.com/officialarijit" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/officialarijit?label=Github%20followers&style=for-the-badge">
-  </a> <br>
-  <a href="https://github.com/officialarijit" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=officialarijit&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
-  </a>
-  </h3>   
+
+![Github Folowers](https://img.shields.io/github/followers/officialarijit?label=Github%20followers&style=for-the-badge)&nbsp; ![Github Viweres](https://komarev.com/ghpvc/?username=officialarijit&label=Views&color=brightgreen&style=flat-square)
+
   
   
 <br>
 <h1>Tech stack I work with 👇</h1>
 
-<h1>Web development stack</h1> 
+<h4>Web development stack</h4> 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp; ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp; ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp; ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp; ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 
@@ -59,6 +54,7 @@ Here are some ideas to get you started:
 
 <br>
 <br>
+
 ![Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=officialarijit&layout=compact&langs_count=8&hide_border=true)
 
 <br>
