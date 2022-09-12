@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: `Aa`-`rii`-`jeet`
 - ⚡ Fun fact: 1.0 
 <h2 align="center"><br/></h2> 
+<br>
 
 ![Github Folowers](https://img.shields.io/github/followers/officialarijit?label=Github%20followers&style=for-the-badge)&nbsp; ![Github Viweres](https://komarev.com/ghpvc/?username=officialarijit&label=Views&color=brightgreen&style=flat-square)
 
@@ -37,7 +38,7 @@ Here are some ideas to get you started:
   
 <h4>Languages</h4>     
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&style=plastic)&nbsp; ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&style=plastic)&nbsp; ![MATLAB](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)(https://www.mathworks.com)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&style=plastic)&nbsp; ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&style=plastic)&nbsp; ![MATLAB](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)
 
 
 <h4>ML/DL stack</h4>   
