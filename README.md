@@ -34,15 +34,15 @@ Here are some ideas to get you started:
 <br>
 <h1>Tech stack I work with 👇</h1>
 
-<h4>Web development stack</h4> 
+<h1>Web development stack</h1> 
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp; ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp; ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp; ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp; ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 
   
   
 <h4>Languages</h4>     
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&style=plastic) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&style=plastic) ![MATLAB](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)(https://www.mathworks.com)
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=GaganpreetKaurKalsi.GaganpreetKaurKalsi) -->
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&style=plastic)&nbsp; ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&style=plastic)&nbsp; ![MATLAB](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)(https://www.mathworks.com)
 
 
 <h4>ML/DL stack</h4>   
