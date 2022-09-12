@@ -75,20 +75,7 @@ Here are some ideas to get you started:
 
 
 <br><br>
-
-
-
-<h3>Github Stats 📈</h3>
-
-
-
-| ![Gaganpreet Kaur Kalsi GitHub Statistics](https://github-readme-stats.vercel.app/api?username=GaganpreetKaurKalsi&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GaganpreetKaurKalsi) |
-| --- | --- |
-| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=GaganpreetKaurKalsi&theme=light&hide_border=true&line_height=27&width=20) | ![Gagan's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GaganpreetKaurKalsi&layout=compact&langs_count=8&hide_border=true) | 
-
-
-
-<img src="https://activity-graph.herokuapp.com/graph?username=GaganpreetKaurKalsi&theme=github" alt="GitHub Activity Graph" width="100%" />
+Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=officialarijit&layout=compact&langs_count=8&hide_border=true)
 
 <br>
 <br>
