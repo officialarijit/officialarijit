@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm working as a researcher at Training Unit of Eurecat - Centro Tecnológico de Cataluña and a full-time Ph.D. student at UPC Universitat Politècnica de Catalunya.
 - 🌱 I’m currently working on Real-tim emotion classificiation from physiological data (EEG, ECG, GSR etc.) streams in E-Learning. Also developing Federated Learning based application for the same.  
-- 📫 How to reach me: `Email`: `askmearijit@gmail.com`, `Linkedin`: https://www.linkedin.com/in/arin2/.
+- 📫 How to reach me: `Email`: `@ askmearijit@gmail.com @ `, `Linkedin`: https://www.linkedin.com/in/arin2/.
 - 😄 Pronouns: `Aa`-`rii`-`jeet`
 - ⚡ Fun fact: 1.0 
 <h2 align="center"><br/></h2> 
