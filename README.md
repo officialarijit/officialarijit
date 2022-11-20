@@ -25,6 +25,21 @@ Here are some ideas to get you started:
 
 ![Github Folowers](https://img.shields.io/github/followers/officialarijit?label=Github%20followers&style=for-the-badge)&nbsp; ![Github Viweres](https://komarev.com/ghpvc/?username=officialarijit&label=Views&color=brightgreen&style=flat-square)
 
+---
+<div align="left">
+  <a href="https://www.linkedin.com/in/arin2/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/AriN5" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+<!--   <a href="@aljo3aid" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a> -->
+</div>
+
+###
+
   
   
 <br>
