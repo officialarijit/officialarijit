@@ -33,13 +33,12 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a> -->
 </div>
+
 <br>
 
 ![Github Folowers](https://img.shields.io/github/followers/officialarijit?label=Github%20followers&style=for-the-badge)&nbsp; ![Github Viweres](https://komarev.com/ghpvc/?username=officialarijit&label=Views&color=brightgreen&style=flat-square)
 
 
-  
-  
 <br>
 <h1>Tech stack I work with 👇</h1>
 
