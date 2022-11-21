@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   </a>
   
   <a href="https://scholar.google.com/citations?user=4re6DoEAAAAJ&hl=en" target="_blank">
-    <img src="https://worldvectorlogo.com/logo/google-scholar" height="35" alt="google scholar logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" height="35" alt="google scholar logo"  />
   </a>
 <!--   <a href="@aljo3aid" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
