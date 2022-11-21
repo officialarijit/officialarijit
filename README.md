@@ -39,15 +39,9 @@ Here are some ideas to get you started:
   </a>
   
   <a href="https://dblp.org/pid/241/6152.html" target="_blank">
-    <img src=" https://en.wikipedia.org/wiki/DBLP#/media/File:DBLP_Logo_320x120.png" height="45" alt="dblp logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/DBLP_Logo_320x120.png" height="45" alt="dblp logo"  />
   </a>
   
- 
-  
-  
-<!--   <a href="@aljo3aid" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a> -->
 </div>
 
 <br>
