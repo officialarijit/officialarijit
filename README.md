@@ -12,41 +12,43 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <h2 align="center"> Hi 👋 , I'm Arijit Nandi <br/></h2> 
 
-- 🔭 I'm working as a researcher at Training Unit of Eurecat - Centro Tecnológico de Cataluña and a full-time Ph.D. student at UPC Universitat Politècnica de Catalunya.
+- 🧑‍💼 I work as **AI researcher at Data Science and Big Data Unit of Eurecat - Centro Tecnológico de Cataluña, Barcelona, Spain**.
+- 🧑🏻‍🎓 **Ph.D. in AI at UPC Universitat Politècnica de Catalunya, Barcelona, Spain.**
 - 🌱 I’m currently working on Real-tim emotion classificiation from physiological data (EEG, ECG, GSR etc.) streams in E-Learning. Also developing Federated Learning based application for the same.  
-- 📫 How to reach me: `Email`: *askmearijit@gmail.com*
+- 📚 I’m currently learning: **XAI, MLOps**.
+- 💬 Ask me about: **Federated Learning | Data Streaming | Affective Computing | Docker.**
+- 👯 I’m looking to collaborate on **Federated learning and its application in real-time emotion recognition** | 
+- 📫 How to reach me: `Email`: ***askmearijit@gmail.com***
 - 😄 Pronouns: `Aa`-`rii`-`jeet`
 - ⚡ Fun fact: 1.0 
 <h2 align="center"><br/></h2> 
-<br>
+
+![Github Viweres](https://komarev.com/ghpvc/?username=officialarijit&label=Views&color=brightgreen&style=flat-square)
+
 <div align="left">
   <a href="https://www.linkedin.com/in/arin2/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"  />
   </a>
+  &nbsp;&nbsp;
   <a href="https://twitter.com/ArijitN5" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="twitter logo"  />
   </a>
-  
+  &nbsp;&nbsp;
   <a href="https://scholar.google.com/citations?user=4re6DoEAAAAJ&hl=en" target="_blank">
     <img src="https://www.queensu.ca/sportpsych/sites/splwww/files/uploaded_images/Google%20Scholar%20No%20background.png" height="45" alt="google scholar logo"  />
   </a>
-  
+  &nbsp;&nbsp;
   <a href="https://www.researchgate.net/profile/Arijit-Nandi-2" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/1024px-ResearchGate_icon_SVG.svg.png" height="45" alt="RG logo"  />
   </a>
-  
+  &nbsp;&nbsp;
   <a href="https://dblp.org/pid/241/6152.html" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/DBLP_Logo_320x120.png" height="45" alt="dblp logo"  />
-  </a>
-  
+  </a>   
 </div>
-
-<br>
-
-![Github Folowers](https://img.shields.io/github/followers/officialarijit?label=Github%20followers&style=for-the-badge)&nbsp; ![Github Viweres](https://komarev.com/ghpvc/?username=officialarijit&label=Views&color=brightgreen&style=flat-square)
+   
 
 
 <br>
