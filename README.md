@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 <br>
 <div align="left">
   <a href="https://www.linkedin.com/in/arin2/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/ArijitN5" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="twitter logo"  />
   </a>
   
   <a href="https://scholar.google.com/citations?user=4re6DoEAAAAJ&hl=en" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/archive/c/c7/20140815012537%21Google_Scholar_logo.svg" height="35" alt="google scholar logo"  />
+    <img src="https://www.queensu.ca/sportpsych/sites/splwww/files/uploaded_images/Google%20Scholar%20No%20background.png" height="45" alt="google scholar logo"  />
   </a>
 <!--   <a href="@aljo3aid" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
