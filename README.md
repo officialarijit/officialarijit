@@ -33,6 +33,18 @@ Here are some ideas to get you started:
   <a href="https://scholar.google.com/citations?user=4re6DoEAAAAJ&hl=en" target="_blank">
     <img src="https://www.queensu.ca/sportpsych/sites/splwww/files/uploaded_images/Google%20Scholar%20No%20background.png" height="45" alt="google scholar logo"  />
   </a>
+  
+  <a href="https://www.researchgate.net/profile/Arijit-Nandi-2" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/1024px-ResearchGate_icon_SVG.svg.png" height="45" alt="RG logo"  />
+  </a>
+  
+  <a href="https://dblp.org/pid/241/6152.html" target="_blank">
+    <img src=" https://en.wikipedia.org/wiki/DBLP#/media/File:DBLP_Logo_320x120.png" height="45" alt="dblp logo"  />
+  </a>
+  
+ 
+  
+  
 <!--   <a href="@aljo3aid" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a> -->
