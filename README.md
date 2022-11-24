@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 🧑‍💼 I work as **AI researcher at Data Science and Big Data Unit of Eurecat - Centro Tecnológico de Cataluña, Barcelona, Spain**.
 - 🧑🏻‍🎓 **Ph.D. (pursuing) in AI at UPC Universitat Politècnica de Catalunya, Barcelona, Spain.**
-- 🌱 I’m currently working on Real-tim emotion classificiation from physiological data (EEG, ECG, GSR etc.) streams in E-Learning. Also developing Federated Learning based application for the same.  
+- 🌱 I’m currently working on Real-time emotion classificiation from physiological data (EEG, ECG, GSR etc.) streams in E-Learning. Also developing Federated Learning based application for the same.  
 - 📚 I’m currently learning: **XAI, MLOps**.
 - 💬 Ask me about: **Federated Learning | Data Streaming | Affective Computing | Docker.**
 - 👯 I’m looking to collaborate on **Federated learning and its application in real-time emotion recognition** | 
