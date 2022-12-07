@@ -83,7 +83,6 @@ Here are some ideas to get you started:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=officialarijit&show_icons=true&locale=en) &nbsp;![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=officialarijit&theme=github-light)&nbsp; ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs?username=officialarijit&show_icons=true&locale=en&layout=compact) &nbsp; ![Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=officialarijit&layout=compact&langs_count=8&hide_border=false)&nbsp; 
 
-![Arijit's Activity Graph](https://activity-graph.herokuapp.com/graph?username=officialarijit&bg_color=ffffff&color=4f4dff&line=629e4c&point=403d3d&area=true&hide_border=true)
 
 <br><br>
 
