@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h2 align="center"> Hi 👋 , I'm Arijit Nandi <br/></h2> 
 
-- 🧑‍💼 I work as **AI researcher at Data Science and Big Data Unit of Eurecat - Centro Tecnológico de Cataluña, Barcelona, Spain**.
+- 🧑‍💼 I work as **AI researcher at Big Data and Data Science Unit of Eurecat - Centro Tecnológico de Cataluña, Barcelona, Spain**.
 - 🧑🏻‍🎓 **Ph.D. (pursuing) in AI at UPC Universitat Politècnica de Catalunya, Barcelona, Spain.**
 - 🌱 I’m currently working on Real-time emotion classificiation from physiological data (EEG, ECG, GSR etc.) streams in E-Learning. Also developing Federated Learning based application for the same.  
 - 📚 I’m currently learning: **XAI, MLOps**.
