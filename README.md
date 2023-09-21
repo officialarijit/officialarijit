@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 <h2 align="center"> Hi 👋 , I'm Arijit Nandi <br/></h2> 
 
-- 🧑‍💼 I work as **AI researcher at Big Data and Data Science Unit of Eurecat - Centro Tecnológico de Cataluña, Barcelona, Spain**.
+- 🧑‍💼 I work as **AI researcher at the Big Data and Data Science Unit of Eurecat - Centro Tecnológico de Cataluña, Barcelona, Spain**.
 - 🧑🏻‍🎓 **Ph.D. (pursuing) in AI at UPC Universitat Politècnica de Catalunya, Barcelona, Spain.**
-- 🌱 I’m currently working on Real-time emotion classificiation from physiological data (EEG, ECG, GSR etc.) streams in E-Learning. Also developing Federated Learning based application for the same.  
+- 🌱 I’m currently working on Real-time emotion classification from physiological data (EEG, ECG, GSR, etc.) streams in E-Learning. Also developing a Federated Learning-based application for the same.  
 - 📚 I’m currently learning: **XAI, MLOps**.
 - 💬 Ask me about: **Federated Learning | Data Streaming | Affective Computing | Docker.**
 - 👯 I’m looking to collaborate on **Federated learning and its application in real-time emotion recognition** | 
@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 <h1>GitHub Stats! 📊</h1>
 <br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=officialarijit&show_icons=true&locale=en) &nbsp;![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=officialarijit&theme=github-light)&nbsp; ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs?username=officialarijit&show_icons=true&locale=en&layout=compact) &nbsp; ![Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=officialarijit&layout=compact&langs_count=8&hide_border=false)&nbsp; 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=officialarijit&show_icons=true&locale=en) &nbsp;![Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=officialarijit&layout=compact&langs_count=8&hide_border=false)&nbsp; 
 
 
 <br><br>
