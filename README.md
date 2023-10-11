@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 1.0 
 <h2 align="center"><br/></h2> 
 
-![Github Viweres](https://komarev.com/ghpvc/?username=officialarijit&label=Views&color=brightgreen&style=flat-square)
+![](https://komarev.com/ghpvc/?username=officialarijit&label=PROFILE+VIEWS&style=for-the-badge)
 
 <div align="left">
   <a href="https://www.linkedin.com/in/arin2/" target="_blank">
