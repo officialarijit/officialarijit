@@ -27,9 +27,6 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=officialarijit&label=PROFILE+VIEWS&style=for-the-badge)
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/officialarijit/count.svg?"  />
-</div>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/arin2/" target="_blank">
