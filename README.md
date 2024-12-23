@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 📚 I’m currently learning: **MLOps**.
 - 💬 Ask me about: **Federated Learning | Data Streaming | Affective Computing | Docker.**
 - 👯 I’m looking to collaborate on **Federated learning and its application in real-time emotion recognition** | 
-- 📫 How to reach me: `Email`: ***askmearijit@gmail.com***
+- 📫 How to reach me: `Email`: ***arijit4ai@gmail.com***
 - 😄 Pronouns: `Aa`-`rii`-`jeet`
 - ⚡ Fun fact: 1.0 
 <h2 align="center"><br/></h2> 
