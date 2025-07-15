@@ -11,6 +11,14 @@
   <code>Barcelona, Spain 🇪🇸</code>
 </p>
 
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=4re6DoEAAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Citations-306-blue?style=for-the-badge&logo=google-scholar&logoColor=white" />
+    <img src="https://img.shields.io/badge/h--index-10-blueviolet?style=for-the-badge&logo=google-scholar&logoColor=white" />
+    <img src="https://img.shields.io/badge/i10--index-10-purple?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 Who Am I?
