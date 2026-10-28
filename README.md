@@ -37,7 +37,7 @@ I'm a multi-domain **AI scientist** with a flair for solving complex real-world 
 
 | Role | Organization |
 |------|--------------|
-| 🧬 **Senior ML Researcher** | [Eurecat - Technology Center of Catalonia](https://eurecat.org) |
+| 🧬 **Advanced ML Researcher** | [Eurecat - Technology Center of Catalonia](https://eurecat.org) |
 | 📚 **AI Consultant** | [Tuttify.io](https://tuttify.io) — Edtech powered by emotion AI |
 | 🧠 **LLM Research Consultant** | [Allen Institute for AI (AI2)](https://allenai.org) |
 
